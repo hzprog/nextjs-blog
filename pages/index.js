@@ -20,7 +20,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello and welcome</p>
+        <p>Hello and welcome To this test of Nextjs and Vercel</p>
         <p>
           Awsome Website with awsome people{" "}
           <a href="https://hzprog.github.io/">My portfolio</a>
